@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1029171395388",
+    "project_id": "movie-discovery-e6a69",
+    "storage_bucket": "movie-discovery-e6a69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1029171395388:android:c896c7d005dc885a84bc39",
+        "android_client_info": {
+          "package_name": "com.project.moviediscovery"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDcbNfD5CHkR1mKfhDtxzv44Tn1kCqRwgY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

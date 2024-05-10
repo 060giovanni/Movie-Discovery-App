@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Movie Discovery</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="title_home">Home</string>
+    <string name="title_dashboard">Dashboard</string>
+    <string name="title_notifications">Notifications</string>
+    <string name="profile">Profile</string>
+    <string name="favorite">Favorite</string>
+    <string name="search_any_movies_here">Search any movies here!</string>
+</resources>
