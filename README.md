@@ -67,4 +67,4 @@ Watch a video demonstration of the Movie Discovery app on YouTube: <br>
 
 ## Figma
 To see the wireframe and prototype of the project, click the link below: <br>
-https://www.figma.com/file/WOl1icQWkO3Uq7kd7CCmKJ/Untitled?type=design&node-id=0%3A1&mode=design&t=KL0LgU2NH4bfBjFc-1
+[Movie Discovery Figma](https://www.figma.com/file/WOl1icQWkO3Uq7kd7CCmKJ/Untitled?type=design&node-id=0%3A1&mode=design&t=KL0LgU2NH4bfBjFc-1)
