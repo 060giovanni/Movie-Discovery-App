@@ -28,6 +28,7 @@ This app leverages The Movie Database (TMDb) API to fetch movie data and provide
 
 ## Tech Stack
 - **Kotlin**: Primary language for Android development.
+- **SDK Target**: 34
 - **Retrofit**: For making HTTP requests to the TMDb API.
 - **Coroutines**: For managing background threads, making network calls, and handling data asynchronously.
 - **Koin**: Dependency Injection framework.
@@ -61,5 +62,5 @@ To set up the project locally, follow these steps:
 - **Profile Management**: Sign in to manage your profile and view your favorite movies.
 
 ## Demo Video
-Watch a video demonstration of the Movie Discovery app on YouTube:
+Watch a video demonstration of the Movie Discovery app on YouTube: <br>
 [![Movie Discovery App Video](https://img.youtube.com/vi/btew0reJ_9o/0.jpg)](https://youtu.be/btew0reJ_9o)
