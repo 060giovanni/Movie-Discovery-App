@@ -40,7 +40,7 @@ This app leverages The Movie Database (TMDb) API to fetch movie data and provide
 To set up the project locally, follow these steps:
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/yourusername/MovieDiscovery.git
+    git clone [https://github.com/Giovanni121140060/TugasbesarPAM.git]
     ```
 
 2. **Open the project**: Open the project in Android Studio.
