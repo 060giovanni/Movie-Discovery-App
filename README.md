@@ -16,7 +16,6 @@ This app leverages The Movie Database (TMDb) API to fetch movie data and provide
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Contributing](#contributing)
 - [Demo Video](#demo-video)
 
 ## Features
