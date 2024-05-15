@@ -1,6 +1,6 @@
 # Tugas Besar Pengembangan Aplikasi Mobile (Kelompok 1)
 
-## Members:
+## Members
 - GIOVANNI LUCY FAUSTINE SITOMPUL (121140060)
 - MARSELLA YESI NATALIA SINAGA (121140174)
 - FERDINAND ZULVAN LINDAN	(121140170)
