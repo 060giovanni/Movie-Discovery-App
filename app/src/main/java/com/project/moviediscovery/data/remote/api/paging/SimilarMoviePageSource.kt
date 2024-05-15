@@ -9,7 +9,6 @@ import kotlinx.coroutines.delay
 import retrofit2.HttpException
 import java.io.IOException
 
-
 class SimilarMoviePageSource(private val apiService: ApiService, private val movieId: Int) :
     PagingSource<Int, MovieItem>() {
     private val defaultPageIndex = 1
