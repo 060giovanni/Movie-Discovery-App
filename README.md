@@ -1,10 +1,12 @@
 # Tugas Besar Pengembangan Aplikasi Mobile (Kelompok 1)
 
 ## Members
-- GIOVANNI LUCY FAUSTINE SITOMPUL (121140060)
-- MARSELLA YESI NATALIA SINAGA (121140174)
-- FERDINAND ZULVAN LINDAN	(121140170)
-- Muhammad Ihsanudin Faruq (121140214)
+|NAMA  | NIM |
+| ------ | ------ |
+| Giovanni Lucy Sitompul| 121140060 |
+| Marsella Yesi Natalia Sinaga | 121140174 |
+| Ferdinan Zulvan Lindan| 121140170 |
+| Muhammad Ihsanudin Faruq |121140214 |
 
 ## Movie Discovery
 A simple project using [The Movie DB](https://www.themoviedb.org) based on Kotlin MVVM architecture. <br>
