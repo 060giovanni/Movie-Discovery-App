@@ -11,7 +11,6 @@
 ## Movie Discovery
 A simple project using [The Movie DB](https://www.themoviedb.org) based on Kotlin MVVM architecture. <br>
 Movie Discovery is an Android application that allows users to discover movies, view details, and manage their favorite movies. <br>
-This app leverages The Movie Database (TMDb) API to fetch movie data and provides an intuitive and interactive user experience. <br>
 
 ## Table of Contents
 - [Features](#features)
