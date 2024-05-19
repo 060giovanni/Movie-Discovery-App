@@ -18,6 +18,7 @@ This app leverages The Movie Database (TMDb) API to fetch movie data and provide
 - [Tech Stack](#tech-stack)
 - [Installation](#installation)
 - [Usage](#usage)
+- [Link Apk](#link-apk)
 - [Demo Video](#demo-video)
 - [Figma](#figma)
 
@@ -62,6 +63,9 @@ To set up the project locally, follow these steps:
 - **Movie Details**: Click on any movie to view its detailed information.
 - **Favorites**: Add movies to your favorite list and access them from the favorites section.
 - **Profile Management**: Sign in to manage your profile and view your favorite movies.
+
+## Link Apk
+To download the app, click this link [Movie Discovery](https://drive.google.com/file/d/1Dm6GKTs-yqautTh7co4M5dt-BVUP5c3J/view?usp=sharing)
 
 ## Demo Video
 Watch a video demonstration of the Movie Discovery app on YouTube: <br>
